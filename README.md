@@ -45,10 +45,10 @@ now login with google account,
 Here using this page send mails and also check communication history.
 
 
-![GitHub Logo](https://github.com/bharathyadav161/tensorgo/uploads/email.png)
+![GitHub Logo](https://github.com/bharathyadav161/tensorgo/blob/main/uploads/email.png)
 
 
-![GitHub Logo](https://github.com/bharathyadav161/tensorgo/uploads/history.png)
+![GitHub Logo](https://github.com/bharathyadav161/tensorgo/blob/main/uploads/history.png)
 
 
 
