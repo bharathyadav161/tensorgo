@@ -35,11 +35,21 @@ command : npm start
 Now we can see our app in local host
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
-now login with google account.
+# dashboard page
 
-#dashboard page
+![GitHub Logo](https://github.com/bharathyadav161/tensorgo/uploads/homepage.png)
+
+
+now login with google account,
 
 Here using this page send mails and also check communication history.
+
+
+![GitHub Logo](https://github.com/bharathyadav161/tensorgo/uploads/email.png)
+
+
+![GitHub Logo](https://github.com/bharathyadav161/tensorgo/uploads/history.png)
+
 
 
 
