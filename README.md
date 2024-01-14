@@ -37,7 +37,7 @@ Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
 # dashboard page
 
-![GitHub Logo](https://github.com/bharathyadav161/tensorgo/uploads/homepage.png)
+![GitHub Logo](https://github.com/bharathyadav161/tensorgo/blob/main/uploads/homepage.png)
 
 
 now login with google account,
